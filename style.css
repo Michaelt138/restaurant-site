@@ -1,0 +1,15 @@
+* {
+  background-color: beige;
+}
+
+p {
+  font-style: italic;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title { 
+    color: red;
+}
