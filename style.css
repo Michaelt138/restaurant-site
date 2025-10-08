@@ -1,7 +1,19 @@
 * {
   background-color: beige;
+  text-align: center;
+
 }
 
+ul {
+    text-decoration: underline;
+    list-style:square;
+    list-style-position: inside;
+}
+
+ol {
+    text-decoration: underline;
+    list-style-position: inside;
+}
 p {
   font-style: italic;
 }
@@ -10,6 +22,6 @@ h1 {
   color: maroon;
 }
 
-.title { 
+ { 
     color: red;
 }
